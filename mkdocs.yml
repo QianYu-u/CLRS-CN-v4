@@ -1,0 +1,56 @@
+site_name: 算法导论 (CLRS) 第4版
+site_url: https://QianYu-u.github.io/CLRS-CN-v4/
+repo_url: https://github.com/QianYu-u/CLRS-CN-v4
+repo_name: CLRS-CN-v4
+
+# 主题配置：复刻 Hansimov 风格
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.instant      # 秒切页面
+    - navigation.tracking     # 滚动高亮
+    - navigation.sections     # 侧边栏分区加粗
+    - navigation.expand       # 默认折叠，保持整洁
+    - navigation.top          # 返回顶部按钮
+    - toc.follow              # 右侧目录跟随
+    - content.code.copy       # 代码复制按钮
+  palette: 
+    - scheme: default
+      primary: white          # 类似 GitBook 的白色顶栏
+      accent: indigo
+      toggle:
+        icon: material/brightness-7 
+        name: 切换深色模式
+    - scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4 
+        name: 切换浅色模式
+  font:
+    text: Roboto
+    code: JetBrains Mono      # 代码字体
+
+# 目录结构 (这里必须和你的 docs 文件夹里的文件对应)
+nav:
+  - 前言: index.md
+  - 第1部分 - 基础知识:
+    - 第1章 - 算法在计算中的作用: part1/ch01.md
+    # 以后写了新章节，就在这里加一行
+
+# Markdown 扩展功能
+markdown_extensions:
+  - admonition              # 提示框
+  - pymdownx.details        # 折叠/展开
+  - pymdownx.superfences    # 高级代码块
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.arithmatex:    # 数学公式支持 (CLRS核心)
+      generic: true
+
+# 加载数学公式引擎 MathJax
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
