@@ -1,0 +1,32 @@
+# 第四版致谢
+
+自 1987 年我们开始编写第一版以来，一直与麻省理工学院出版社合作，与多位主任、编辑和制作人员进行了协作。在与麻省理工学院出版社的整个合作过程中，他们的支持始终表现出色。特别感谢我们的编辑玛丽·李(Marie Lee)对我们的耐心，以及伊丽莎白·斯韦泽(Elizabeth Swayze)推我们冲过终点线。同时也感谢主任艾米·布兰德(Amy Brand)和亚历克斯·胡普斯(Alex Hoopes)。
+
+与第三版一样，我们在制作第四版时分布在不同地点，分别在达特茅斯学院计算机科学系、麻省理工学院计算机科学与人工智能实验室、麻省理工学院电气工程与计算机科学系以及哥伦比亚大学工业工程与运筹学系、计算机科学系和数据科学研究所工作。在新冠疫情期间，我们主要在家工作。我们感谢各自所在大学和同事提供的支持性和激励性的工作环境。随着本书的完成，我们这些尚未退休的人迫不及待地想在疫情似乎趋于缓解之际回到各自的大学。
+
+Julie Sussman（P.P.A.）再次来到我们的救援，在极其紧张的时间压力下完成了技术文稿编辑工作。如果没有 Julie，这本书将充满错误（或者说，会有更多的错误），也会不易阅读。Julie，我们永远感谢你。书中仍存在的错误是作者们的责任（而且可能是在 Julie 阅读材料后插入的）。
+
+在本次修订过程中，我们纠正了先前版本中的数十处错误。感谢多年来向我们反馈问题并提出改进建议的读者们————人数众多，恕难列名。
+
+在准备本版部分新内容的过程中，我们获得了许多帮助。Neville Campbell（独立学者）、麻省理工学院的Bill Kuszmaul以及纽约大学的Chee Yap为第4章递归问题的处理提供了宝贵建议。加州大学河滨分校的顾岩为第26章并行算法内容提供了反馈意见。微软研究院的Rob Shapire通过对第33章的详细评注，改变了我们对机器学习内容的呈现方式。麻省理工学院的齐琦协助完成了蒙提霍尔问题（习题C-1）的分析。
+
+MIT出版社的莫莉·西曼和玛丽·赖利协助我们选定了插图的配色方案，达特茅斯学院的沃伊切赫·雅罗什为我们新上色的图表提出了设计改进建议。已从达特茅斯毕业的叶晨（安妮）·柯和林晓协助完成了插图上色工作，林晓还开发了本书网站上提供的许多Python实现代码。
+
+最后，我们要感谢我们的妻子——温迪·莱瑟森、盖尔·里维斯特、丽贝卡·艾弗里，以及已故的妮可·科尔曼——以及我们的家人。正是那些爱我们的人的耐心与鼓励，才让这个项目成为可能。我们深情地将本书献给他们。
+<div style="display: flex; justify-content: space-between; margin-top: 50px;">
+  <div style="text-align: left; line-height: 1.6;">
+    <div style="font-variant: small-caps; font-weight: bold;">Thomas H. Cormen</div>
+    <div style="font-variant: small-caps; font-weight: bold;">Charles E. Leiserson</div>
+    <div style="font-variant: small-caps; font-weight: bold;">Ronald L. Rivest</div>
+    <div style="font-variant: small-caps; font-weight: bold;">Clifford Stein</div>
+    <br>
+    <i>June, 2021</i>
+  </div>
+
+  <div style="text-align: right; line-height: 1.6; font-style: italic;">
+    Lebanon, New Hampshire<br>
+    Cambridge, Massachusetts<br>
+    Cambridge, Massachusetts<br>
+    New York, New York
+  </div>
+</div>
