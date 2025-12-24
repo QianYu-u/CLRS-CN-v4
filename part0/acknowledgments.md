@@ -13,20 +13,7 @@ Julie Sussman（P.P.A.）再次来到我们的救援，在极其紧张的时间�
 MIT出版社的莫莉·西曼和玛丽·赖利协助我们选定了插图的配色方案，达特茅斯学院的沃伊切赫·雅罗什为我们新上色的图表提出了设计改进建议。已从达特茅斯毕业的叶晨（安妮）·柯和林晓协助完成了插图上色工作，林晓还开发了本书网站上提供的许多Python实现代码。
 
 最后，我们要感谢我们的妻子——温迪·莱瑟森、盖尔·里维斯特、丽贝卡·艾弗里，以及已故的妮可·科尔曼——以及我们的家人。正是那些爱我们的人的耐心与鼓励，才让这个项目成为可能。我们深情地将本书献给他们。
-<div style="display: flex; justify-content: space-between; margin-top: 50px;">
-  <div style="text-align: left; line-height: 1.6;">
-    <div style="font-variant: small-caps; font-weight: bold;">Thomas H. Cormen</div>
-    <div style="font-variant: small-caps; font-weight: bold;">Charles E. Leiserson</div>
-    <div style="font-variant: small-caps; font-weight: bold;">Ronald L. Rivest</div>
-    <div style="font-variant: small-caps; font-weight: bold;">Clifford Stein</div>
-    <br>
-    <i>June, 2021</i>
-  </div>
 
-  <div style="text-align: right; line-height: 1.6; font-style: italic;">
-    Lebanon, New Hampshire<br>
-    Cambridge, Massachusetts<br>
-    Cambridge, Massachusetts<br>
-    New York, New York
-  </div>
-</div>
+| 作者 | 地点 |
+| :--- | ---: |
+| **Thomas H. Cormen**<br>**Charles E. Leiserson**<br>**Ronald L. Rivest**<br>**Clifford Stein**<br><br>*June, 2021* | *Lebanon, New Hampshire*<br>*Cambridge, Massachusetts*<br>*Cambridge, Massachusetts*<br>*New York, New York* |
