@@ -1,9 +1,3 @@
 {
-  "plugins": ["mathjax"],
-  "pluginsConfig": {
-    "mathjax": {
-      "forceSVG": false,
-      "linebreaks": true
-    }
-  }
+    "plugins": ["mathjax"]
 }
