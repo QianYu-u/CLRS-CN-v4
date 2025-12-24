@@ -9,8 +9,9 @@
 
 这是一个关于 **《Introduction to Algorithms, 4th Edition》** 的中文电子版整理项目。旨在辅助阅读与学习，提供更流畅的中文体验。
 
-*   **当前版本**：v4.0 (Dev)
-*   **GitHub 仓库**：[CLRS-CN-v4](https://github.com/QianYu-u/CLRS-CN-v4)
+* **当前版本**：v4.0 (Dev)
+* **GitHub 仓库**：[CLRS-CN-v4](https://github.com/QianYu-u/CLRS-CN-v4)
+* **GitBook 直达**：[Book](https://autumn-1.gitbook.io/clrs-cn-v4)
 
 ## 🔨 施工进度概览
 
