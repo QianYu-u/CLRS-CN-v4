@@ -8,6 +8,7 @@
 ## 📖 项目简介
 
 这是一个关于 **《Introduction to Algorithms, 4th Edition》** 的中文电子版整理项目。旨在辅助阅读与学习，提供更流畅的中文体验。
+因机械工业出版社还停留在第三版，但是我又不想看第三版，还不如边做Book加强记忆，这书实在是太厚了，准备PDF转译的，但是格式会产生变动，不如直接手搓一个了
 
 * **当前版本**：v4.0 (Dev)
 * **GitHub 仓库**：[CLRS-CN-v4](https://github.com/QianYu-u/CLRS-CN-v4)
